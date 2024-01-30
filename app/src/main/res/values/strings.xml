@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Project1-Wordle</string>
+    <string name="guessButtonText">Guess!</string>
+    <string name="textBoxHint">Enter 4 character word</string>
+</resources>
